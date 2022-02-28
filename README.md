@@ -10,4 +10,4 @@ Here I will be documenting the steps taken in learning ***PostgreSQL (pgAdmin4)*
 
 ### INSERT
 
-![]()
+![](https://github.com/latiful-hassan/postgresql_introduction/blob/main/postgresql_introduction_screenshots/psql_insert_query.png)
