@@ -22,7 +22,7 @@ Here I will be documenting the steps taken in learning ***PostgreSQL (pgAdmin4)*
 
 - Importing data from a file:
 
-![]()
+![](https://github.com/latiful-hassan/postgresql_introduction/blob/main/postgresql_introduction_screenshots/psql_copy_query.png)
 
 ### SELECT
 
