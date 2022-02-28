@@ -74,3 +74,33 @@ Here I will be documenting the steps taken in learning ***PostgreSQL (pgAdmin4)*
   * set a column to being the *Primary Key*
 
 ![](https://github.com/latiful-hassan/postgresql_introduction/blob/main/postgresql_introduction_screenshots/psql_alter_query.png)
+
+## Filtering
+
+### IN
+
+![]()
+
+### BETWEEN
+
+![]()
+
+### LIKE
+
+![]()
+
+## Ordering
+
+### ORDER BY
+
+![]()
+
+### LIMIT
+
+![]()
+
+## Aliasing
+
+### AS
+
+![]()
