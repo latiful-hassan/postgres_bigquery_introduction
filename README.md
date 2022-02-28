@@ -2,7 +2,7 @@
 
 Here I will be documenting the steps taken in learning ***PostgreSQL (pgAdmin4)***.
 
-## Fundamental SQl Statements
+## Fundamental SQL Statements
 
 ### CREATE TABLE
 
