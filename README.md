@@ -1,2 +1,7 @@
 # postgres_bigquery_introduction
-My introduction into using PostgreSQL and BigQuery
+
+Here I will be documenting the steps taken in learning ***PostgreSQL (pgAdmin4)***.
+
+## Creating a Table
+
+
