@@ -44,11 +44,13 @@ Here I will be documenting the steps taken in learning ***PostgreSQL (pgAdmin4)*
 
 ### Logical Operators
 
-![]()
+- **AND**, **OR**, **NOT**:
+
+![](https://github.com/latiful-hassan/postgresql_introduction/blob/main/postgresql_introduction_screenshots/psql_logical_query.png)
 
 ### UPDATE
 
-![]()
+![](https://github.com/latiful-hassan/postgresql_introduction/blob/main/postgresql_introduction_screenshots/psql_update_query.png)
 
 ### DELETE
 
