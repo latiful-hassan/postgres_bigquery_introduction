@@ -35,7 +35,12 @@ Here I will be documenting the steps taken in learning ***PostgreSQL (pgAdmin4)*
 
 ### WHERE
 
-![]()
+- Showing the **WHERE** clause with different conditions:
+  * equals
+  * equality operator
+  * matching string
+
+![](https://github.com/latiful-hassan/postgresql_introduction/blob/main/postgresql_introduction_screenshots/psql_where_query.png)
 
 ### Logical Operators
 
