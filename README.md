@@ -77,21 +77,13 @@ Here I will be documenting the steps taken in learning ***PostgreSQL (pgAdmin4)*
 
 ## Filtering
 
-### IN
-
-![]()
-
-### BETWEEN
-
-![]()
-
-### LIKE
+### IN, BETWEEN & LIKE
 
 ![]()
 
 ## Ordering
 
-### ORDER BY
+### ORDER BY & LIMIT
 
 ![]()
 
