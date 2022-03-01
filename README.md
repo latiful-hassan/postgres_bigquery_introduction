@@ -79,7 +79,7 @@ Here I will be documenting the steps taken in learning ***PostgreSQL (pgAdmin4)*
 
 ### IN, BETWEEN & LIKE
 
-![]()
+![](https://github.com/latiful-hassan/postgresql_introduction_inprogress/blob/main/postgresql_introduction_screenshots/psql_filtering_query.png)
 
 ## Ordering
 
