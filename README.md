@@ -110,7 +110,42 @@ Here I will be documenting the steps taken in learning ***PostgreSQL (pgAdmin4)*
 
 ### GROUP BY & HAVING
 
-- 
-- 
+- With the **GROUP BY** clause, you can group together one or more columns, for example we can count all the customers and group by buy region 
+- We can also combine many aggregations together as seen in the example where we find summarise metrics for each customer and find the top 5 spenders in the customer data set
+- The **HAVING** clause can only be used in tandem with **GROUP BY** and it restricts the groups returned (similar to **WHERE**). In the example below we find the regions that have more than 200 customers
 
-![]()
+![](https://github.com/latiful-hassan/postgresql_introduction_inprogress/blob/main/postgresql_introduction_screenshots/psql_grouping_commands.png)
+
+
+## Conditional Statement
+
+### CASE WHEN
+
+- **CASE WHEN** is similar to a traditional **IF** statement where we specify conditions
+- Here we are putting different ages into categories or *bins*
+
+![](https://github.com/latiful-hassan/postgresql_introduction_inprogress/blob/main/postgresql_introduction_screenshots/psql_case_query.png)
+
+## Joins
+
+- Joins allow merging of tables on a condition (predicate) commonly two equal ID values (primary and foreign keys)
+
+### INNER
+
+- Returns only those values that satisfy the join predicate:
+
+![](https://github.com/latiful-hassan/postgresql_introduction_inprogress/blob/main/postgresql_introduction_screenshots/inner.png)
+
+### LEFT/RIGHT JOIN
+
+- Returns all rwos from left/right table, even without matches:
+
+![](https://github.com/latiful-hassan/postgresql_introduction_inprogress/blob/main/postgresql_introduction_screenshots/left_right.png)
+
+### FULL OUTER JOIN
+
+- This combines the results of both a left and right join:
+
+![](https://github.com/latiful-hassan/postgresql_introduction_inprogress/blob/main/postgresql_introduction_screenshots/full_outer.png)
+
+### 
