@@ -148,4 +148,17 @@ Here I will be documenting the steps taken in learning ***PostgreSQL (pgAdmin4)*
 
 ![](https://github.com/latiful-hassan/postgresql_introduction_inprogress/blob/main/postgresql_introduction_screenshots/full_outer.png)
 
-### 
+### EXCEPT
+
+- This operator is used to return rows in the first select statement that are not returned by the second:
+
+![](https://github.com/latiful-hassan/postgresql_introduction_inprogress/blob/main/postgresql_introduction_screenshots/except.png)
+
+## Subqueries
+
+- A **Subquery** is a query within a query, specifically withing the **WHERE**, **FROM** or **SELECT** clauses:
+  * for the **WHERE** clause example we find all columns where the customer ID is from customers over the age of 60
+  * for the **FROM** clause example we use a subquery to essential craete a table so that we can save resources, otherwise this would have to be done in two queries
+  * for the **SELECT** clause example this is the same as using a **LEFT JOIN**
+
+![](https://github.com/latiful-hassan/postgresql_introduction_inprogress/blob/main/postgresql_introduction_screenshots/subqueries.png)
