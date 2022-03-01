@@ -85,14 +85,10 @@ Here I will be documenting the steps taken in learning ***PostgreSQL (pgAdmin4)*
 
 ### ORDER BY & LIMIT
 
-![]()
+![](https://github.com/latiful-hassan/postgresql_introduction_inprogress/blob/main/postgresql_introduction_screenshots/psql_ordering_query.png)
 
-### LIMIT
+## Aggregate Commands
 
-![]()
-
-## Aliasing
-
-### AS
+### COUNT, SUM, AVERAGE, MIN & MAX
 
 ![]()
