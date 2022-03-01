@@ -98,4 +98,19 @@ Here I will be documenting the steps taken in learning ***PostgreSQL (pgAdmin4)*
 
 ### COUNT, SUM, AVERAGE, MIN & MAX
 
+- **COUNT** gives us a count of results returned, in the example, the query will return a count of all the orders the customer has and all the different products
+- **SUM** aggregates all values
+- **AVERAGE** gives an average of values
+- **MIN** and **MAX** gives the minimum and maximum values
+
+![](https://github.com/latiful-hassan/postgresql_introduction_inprogress/blob/main/postgresql_introduction_screenshots/psql_aggregate_query.png)
+
+
+## Grouping Commands
+
+### GROUP BY & HAVING
+
+- 
+- 
+
 ![]()
