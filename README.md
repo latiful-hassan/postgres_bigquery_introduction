@@ -79,11 +79,18 @@ Here I will be documenting the steps taken in learning ***PostgreSQL (pgAdmin4)*
 
 ### IN, BETWEEN & LIKE
 
+- **IN** allows us to check for a value within the data set
+- **BETWEEN** checks for values between two contraint values (simplifies query so we do not have to use **OR**)
+- **LIKE** uses a **wildcard** which is a placeholder value, in the example the query will return names starting with 'J'
+
 ![](https://github.com/latiful-hassan/postgresql_introduction_inprogress/blob/main/postgresql_introduction_screenshots/psql_filtering_query.png)
 
 ## Ordering
 
 ### ORDER BY & LIMIT
+
+- **ORDER BY** clauses allows sorting of the returned data set by either ascending or decending
+- **LIMIT** is used to put a cap on how many rows are returned 
 
 ![](https://github.com/latiful-hassan/postgresql_introduction_inprogress/blob/main/postgresql_introduction_screenshots/psql_ordering_query.png)
 
